@@ -1,5 +1,5 @@
 {
-  "name": "hermione-selenuim-standalone-runner-plugin",
+  "name": "hermione-selenium-standalone-runner-plugin",
   "version": "1.0.0",
   "engines": {
     "node": "14.17.3"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/juliazrtsk/hermione-selenuim-standalone-runner-plugin"
+    "url": "git+ssh://git@github.com/juliazrtsk/hermione-selenium-standalone-runner-plugin"
   },
   "author": "Julia Zaretskaya <julia.zrtsk@gmail.com>",
   "dependencies": {
